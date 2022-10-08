@@ -1,5 +1,5 @@
 Title: My Second Article
-Date: 2019-10-07 8:00
+Date: 2019-10-26 10:30
 Category: Blog
 
-I like free static web hosting.
+I like Pelican.
