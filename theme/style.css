@@ -1,0 +1,8 @@
+html, body {
+    margin: 15px;
+    border: 0;
+    font-size: 100%;
+    font-family: Helvetica, Arial, sans-serif;
+    background-color: #fffefb;
+    color: #000000;
+}
