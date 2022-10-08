@@ -1,5 +1,5 @@
 Title: My Third Article
-Date: 2019-10-07 8:00
+Date: 2019-12-14 7:00
 Category: Blog
 
-I like free static web hosting.
+I like CMPUT 404.
